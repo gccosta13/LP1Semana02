@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothOperator", "SmoothOpe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "VariousOperators\VariousOperators.csproj", "{7A8B21E7-5E06-437D-80EB-2A17DE78875A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{F2D56B74-0B7B-4D3F-936D-DEA10C43F09A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7A8B21E7-5E06-437D-80EB-2A17DE78875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8B21E7-5E06-437D-80EB-2A17DE78875A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8B21E7-5E06-437D-80EB-2A17DE78875A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D56B74-0B7B-4D3F-936D-DEA10C43F09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D56B74-0B7B-4D3F-936D-DEA10C43F09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D56B74-0B7B-4D3F-936D-DEA10C43F09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D56B74-0B7B-4D3F-936D-DEA10C43F09A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
