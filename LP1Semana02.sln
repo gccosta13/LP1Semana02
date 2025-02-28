@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{F7D81CD2-1584-4DE8-8941-BEF85B05BB96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectCountdown", "PerfectCountdown\PerfectCountdown.csproj", "{41781085-B353-47C3-8C25-57A1AC8DFA87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F7D81CD2-1584-4DE8-8941-BEF85B05BB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7D81CD2-1584-4DE8-8941-BEF85B05BB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7D81CD2-1584-4DE8-8941-BEF85B05BB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41781085-B353-47C3-8C25-57A1AC8DFA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41781085-B353-47C3-8C25-57A1AC8DFA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41781085-B353-47C3-8C25-57A1AC8DFA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41781085-B353-47C3-8C25-57A1AC8DFA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
