@@ -66,7 +66,21 @@ namespace ValoresEspeciais
             Console.WriteLine(dbyte2);
             Console.WriteLine(de1);
             Console.WriteLine(de2);
-            
+
+            float fli1= float.PositiveInfinity;
+            float fli2= float.NegativeInfinity;
+            float fln1= float.NaN;
+
+            double dbi1= double.PositiveInfinity;
+            double dbi2= double.NegativeInfinity;
+            double dbn=double.NaN;
+
+            Console.WriteLine(fli1);
+            Console.WriteLine(fli2);
+            Console.WriteLine(fln1);
+            Console.WriteLine(dbi1);
+            Console.WriteLine(dbi2);
+            Console.WriteLine(dbn);
         }
     }
 }
