@@ -17,7 +17,7 @@ namespace PerfectCountdown
             int step = int.Parse(str2);
             
 
-            if (start<1 || step<start || step>=1)
+            if (start<1 || step>start || step<=1)
             {
             Console.WriteLine("Out-of-range start or step. Try again.");
             continue;
